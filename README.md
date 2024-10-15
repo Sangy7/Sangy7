@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
+![MasterHead]([https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966](https://i.pinimg.com/originals/0d/8c/6a/0d8c6a27b4b039d5b9cfe8aa4777766d.png))
 <h1 align="center">Hi 👋, I'm Rudransh Sangwan</h1>
 <h3 align="center">A passionate Web frontend & Java Full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXV0YW8xd2o0NW80ZjhmMzlqMmlzMmZ0ZDJvMmE5djltM2ZqbGpmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
